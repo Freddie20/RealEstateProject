@@ -15,6 +15,7 @@ __pycache__/
 
 # Ignore MacOS system files
 .DS_Store
+.venv/
 
 #Ignore test files
 webscrape.ipynb 
