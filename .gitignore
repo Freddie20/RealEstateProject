@@ -17,6 +17,6 @@ __pycache__/
 .DS_Store
 
 #Ignore test files
-analysis.ipynb 
+webscrape.ipynb 
 cleaning.ipynb
 analysis.ipynb
