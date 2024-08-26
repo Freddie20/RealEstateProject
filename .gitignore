@@ -21,3 +21,5 @@ __pycache__/
 webscrape.ipynb 
 cleaning.ipynb
 analysis.ipynb
+propertypro_sale_listings.csv
+propertypro_rent_listings.csv
